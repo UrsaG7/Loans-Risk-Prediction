@@ -61,13 +61,6 @@ Tools needed :
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -75,7 +68,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Muhammad Gilang Mahardika - [Linkedin_profile](https://www.linkedin.com/in/muhgilangmahardika/)
 
-Project Link: [https://github.com/your_username/repo_name](github.com/UrsaG7/HC_Final_project)
+Project Link: [Repo](github.com/UrsaG7/HC_Final_project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
