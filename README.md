@@ -44,7 +44,7 @@ Just download the file and see what's up
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Tools needed :
 * Python
 * Jupyter Notebook
 
