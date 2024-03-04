@@ -57,7 +57,7 @@ Tools needed :
 - [x] Evaluation
 - [ ] Deployment
 - [ ] Feedback
-- [ ] Re-tune
+- [x] Re-tune (just a little bit more)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
