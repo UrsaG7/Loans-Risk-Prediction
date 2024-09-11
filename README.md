@@ -55,9 +55,9 @@ Tools needed :
 - [x] Preprocessing
 - [x] Modeling
 - [x] Evaluation
-- [ ] Deployment
-- [ ] Feedback
-- [x] Re-tune (just a little bit more)
+- [x] Feedback
+- [x] Re-tune (Done & added credit scoring)
+- [ ] Re-upload (Will be uploaded after report is done)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
